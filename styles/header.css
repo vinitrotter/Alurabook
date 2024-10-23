@@ -7,15 +7,15 @@
     display: inline-block;
 }
 .cabeçalho{
-    background-color:white ;
+    background-color: rgb(252, 241, 241);
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.conteiner{
+.container{
     display: flex;
     align-items: center;
 }
-.conteiner__imagem{
+.container__imagem{
     padding: 1em;
 }
