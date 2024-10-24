@@ -37,7 +37,7 @@
 .lista-menu__titulo{
     color: rgb(247, 10, 10);
 }
-lista-menu__link{
+.lista-menu__link{
     background: black;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
