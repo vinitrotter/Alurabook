@@ -1,5 +1,8 @@
 @import url("styles/header.css");
 @import url("stlyles/banner.css");
+@import url("stlyles/carrosel.css");
+
+
 :root{
     --cor-de-fundo: white;
     --fonte-principal:"poppins";
